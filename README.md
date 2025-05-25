@@ -52,10 +52,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parul-Bhamba&theme=radical&hide_border=true&border_radius=20" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parul-Bhamba&theme=dracula&area=true&hide_border=true"/>
-</p>
-
 ---
 
 ### 🌐 Let’s Connect
